@@ -15,12 +15,22 @@ p {
   font-size: 25px;
 }
 
+button {
+  color: white;
+  font-size: 25px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: transparent;
+  cursor: pointer;
+  border-style: solid;
+  border-color: white;
+  border-radius: 7px;
+  border-width: 1px;
+}
+
 img {
   padding-top: 25px;
-
   stroke: #fff;
   width: 210px;
-
   animation-name: animate;
   animation-duration: 0.8s;
   animation-iteration-count: infinite;
