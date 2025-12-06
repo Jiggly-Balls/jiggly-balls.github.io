@@ -174,12 +174,6 @@ button {
   flex: 1;
 }
 
-@media (max-width: 600px) {
-  .experience-card {
-    width: 100%;
-  }
-}
-
 .external-link {
   height: 1.7rem;
   fill: white;
@@ -189,4 +183,10 @@ button {
 .external-link:hover {
   fill: #ddd;
   transform: scale(1.1);
+}
+
+@media (max-width: 600px) {
+  .experience-card {
+    width: 100%;
+  }
 }
