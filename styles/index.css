@@ -174,13 +174,13 @@ button {
   flex: 1;
 }
 
-.external-link {
-  height: 1.7rem;
+.external-link-icon {
+  height: 1rem;
   fill: white;
   transition: 0.2s;
 }
 
-.external-link:hover {
+.external-link-icon:hover {
   fill: #ddd;
   transform: scale(1.1);
 }
