@@ -2,14 +2,16 @@
   --foreground-colour: rgb(231, 177, 58);
 }
 
+.back-link {
+  font-size: 1.3rem;
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+}
+
 .rectangle-divider {
   height: 0.7rem;
   border-radius: 7px;
   background-color: var(--foreground-colour);
   border-color: var(--foreground-colour);
-  margin: 10px 0px;
-}
-
-.work-exp-description {
-  margin-top: 5rem;
+  margin: 10px 0px 100px 0px;
 }
