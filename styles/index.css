@@ -121,13 +121,13 @@ button {
 }
 
 .company-name {
-  font-size: 20px;
+  font-size: 2rem;
   margin: 0px 5px;
   color: #fff;
 }
 
 .job-title {
-  font-size: 14px;
+  font-size: 1rem;
   color: #ccc;
   margin: 5px;
 }
